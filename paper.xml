@@ -46,6 +46,15 @@
         <ans>c</ans>
     </qsdata>
 
+<qsdata>
+        <qs>What comes after Sunday?</qs>
+        <op1>Monday</op1>
+        <op2>Tue</op2>
+        <op3>Thailand</op3>
+        <op4>Indonesia</op4>
+        <ans>a</ans>
+    </qsdata>
+
     <qsdata>
         <qs>Kitai is the Russian word for which country?</qs>
         <op1>Canada</op1>
