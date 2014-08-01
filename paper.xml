@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set>
+    <qsdata>
+        <qs>Who established the Belurmath in west Bengal?</qs>
+        <op1>Swami Dayanand</op1>
+        <op2>Swami Vivekananda</op2>
+        <op3>Swami Shraddhanand</op3>
+        <op4>Ramakrishna Paramahansa</op4>
+        <ans>b</ans>
+    </qsdata>
+
+
+    <qsdata>
+        <qs>At what temperature does water boil,at sea level?</qs>
+        <op1>170 F</op1>
+        <op2>212 F</op2>
+        <op3>180 F</op3>
+        <op4>100 F</op4>
+        <ans>a</ans>
+    </qsdata>
+
+    <qsdata>
+        <qs>Which planet orbits the Sun at a speed of 110,000 KPH?</qs>
+        <op1>Venus</op1>
+        <op2>Jupiter</op2>
+        <op3>Earth</op3>
+        <op4>Mars</op4>
+        <ans>c</ans>
+    </qsdata>
+
+    <qsdata>
+        <qs>Who was the founder of the modern Republic of Turkey?</qs>
+        <op1>Idi Amin</op1>
+        <op2>Kemal Pasha</op2>
+        <op3>Benito Mussolini</op3>
+        <op4>Adolf Hitler</op4>
+        <ans>b</ans>
+    </qsdata>
+
+    <qsdata>
+        <qs>Phuket is a beach resort in which country?</qs>
+        <op1>Malaysia</op1>
+        <op2>Sri Lanka</op2>
+        <op3>Thailand</op3>
+        <op4>Indonesia</op4>
+        <ans>c</ans>
+    </qsdata>
+
+    <qsdata>
+        <qs>Kitai is the Russian word for which country?</qs>
+        <op1>Canada</op1>
+        <op2>Japan</op2>
+        <op3>Egypt</op3>
+        <op4>China</op4>
+        <ans>d</ans>
+    </qsdata>
+
+    <qsdata>
+        <qs>Muga,paat and eri are types of which of these?</qs>
+        <op1>Silk</op1>
+        <op2>Stones</op2>
+        <op3>Painting</op3>
+        <op4>Bamboo sticks</op4>
+        <ans>a</ans>
+    </qsdata>
+
+
+
+
+</set>
